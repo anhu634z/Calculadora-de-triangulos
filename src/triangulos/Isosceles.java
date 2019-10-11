@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ex4;
+package triangulos;
 
 import java.awt.FlowLayout;
 import javax.swing.JButton;
